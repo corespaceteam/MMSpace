@@ -169,5 +169,6 @@ MMSpace 面向 **Android 9.0 及以上的 ARM64 手机**。
 <p align="left">
   邮箱：<code>corespaceteam@gmail.com</code><br>
   微信：<code>corespaceteam</code><br>
+  QQ群:1130224425  回答:github
 </p>
 
