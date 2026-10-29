@@ -14,7 +14,7 @@
 <p align="center"><strong>基于 OpenHarmony 7.0</strong></p>
 
 <p align="center">
-  给安卓手机装上 MMSpace，就能体验 OpenHarmony/鸿蒙 的桌面和应用。<br>
+  给安卓手机装上 MMSpace (MM是蒙蒙的简写，蒙蒙是谁，鸿蒙的蒙，好记点)，就能体验 OpenHarmony/鸿蒙 的桌面和应用。<br>
   无需 Root，无需刷机，原来的安卓系统照常使用。
 </p>
 
@@ -26,7 +26,7 @@
   <a href="#first-time-setup"><img src="./assets/setup-zh.svg" width="188" height="48" alt="首次使用设置：查看必需操作"></a>
 </p>
 
-<p align="center">APP即将发布，敬请期待...</p>
+<p align="center">MMSpace 已发布，前往 <a href="https://github.com/corespaceteam/MMSpace/releases">GitHub Releases</a> 下载。</p>
 
 ---
 
@@ -98,7 +98,7 @@ MMSpace 已包含运行所需的 OpenHarmony 系统，无需另外寻找系统�
 
 ## 三步，开始体验
 
-1. **下载安装**：安装包发布后，从 [版本发布页](https://github.com/corespaceteam/MMSpace/releases) 下载并安装到 Android 手机。
+1. **下载安装**：从 [版本发布页](https://github.com/corespaceteam/MMSpace/releases) 下载并安装到 Android 手机。
 2. **完成必需设置**：按[首次使用说明](#first-time-setup)完成手机设置，返回 MMSpace 检查运行环境。
 3. **启动你的空间**：点击「启动系统」，等待首次准备完成，进入 OpenHarmony。
 
@@ -168,10 +168,6 @@ MMSpace 面向 **Android 9.0 及以上的 ARM64 手机**。
 
 <p align="left">
   邮箱：<code>corespaceteam@gmail.com</code><br>
-  微信号：<code>corespaceteam</code>
+  微信：<code>corespaceteam</code><br>
 </p>
 
-<p align="left">
-  微信扫码添加<br>
-  <a href="./assets/wechat-qr.png"><img src="./assets/wechat-qr.png" width="300" alt="CoreSpace 微信名片：头像、名称和添加好友二维码，微信号 corespaceteam"></a>
-</p>
