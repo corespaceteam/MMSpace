@@ -26,7 +26,7 @@
   <a href="#first-time-setup"><img src="./assets/setup-en.svg" width="188" height="48" alt="First-time setup: see the required steps"></a>
 </p>
 
-<p align="center">MMSpace is coming soon. Stay tuned...</p>
+<p align="center">MMSpace is now available. Download it from <a href="https://github.com/corespaceteam/MMSpace/releases">GitHub Releases</a>.</p>
 
 ---
 
@@ -98,7 +98,7 @@ OpenHarmony comes bundled with MMSpace. Follow the setup instructions to get you
 
 ## Get started in three steps
 
-1. **Download and install**: Once MMSpace is released, download it from the [releases page](https://github.com/corespaceteam/MMSpace/releases) and install it on your Android phone.
+1. **Download and install**: Download MMSpace from the [releases page](https://github.com/corespaceteam/MMSpace/releases) and install it on your Android phone.
 2. **Complete the required setup**: Follow the [first-time setup instructions](#first-time-setup), then return to MMSpace to check that your phone is ready.
 3. **Start your space**: Wait for MMSpace to finish preparing OpenHarmony, then explore its home screen and apps.
 
@@ -164,14 +164,26 @@ If it still doesn't work, [report an issue](https://github.com/corespaceteam/MMS
 
 You can also reach us using the contact details below.
 
+### 9. How do I connect to an OpenHarmony virtual machine using hdc?
+
+The commands below assume the hdc port is `6666`. You can set the port in the virtual machine's settings.
+
+1. Use Android's ADB tool to forward the port:
+
+   ```sh
+   adb forward tcp:6666 tcp:6666
+   ```
+
+2. Connect to the virtual machine with hdc and open a shell:
+
+   ```sh
+   hdc tconn 127.0.0.1:6666
+   hdc -t 127.0.0.1:6666 shell
+   ```
+
 ## Contact
 
 <p align="left">
   Email: <code>corespaceteam@gmail.com</code><br>
   WeChat ID: <code>corespaceteam</code>
-</p>
-
-<p align="left">
-  Scan to add us on WeChat<br>
-  <a href="./assets/wechat-qr.png"><img src="./assets/wechat-qr.png" width="300" alt="CoreSpace WeChat card with profile photo, name, and QR code. WeChat ID: corespaceteam"></a>
 </p>
