@@ -14,8 +14,9 @@
 <p align="center"><strong>基于 OpenHarmony 7.0</strong></p>
 
 <p align="center">
-  给安卓手机装上 MMSpace (MM是蒙蒙的简写，蒙蒙是谁，鸿蒙的蒙，好记点)，就能体验 OpenHarmony/鸿蒙 的桌面和应用。<br>
-  无需 Root，无需刷机，原来的安卓系统照常使用。
+  给安卓手机装上 MMSpace，就能体验 OpenHarmony/鸿蒙 的桌面和应用。<br>
+  无需 Root，无需刷机，原来的安卓系统照常使用。<br>
+  <sub><em>(MM是蒙蒙的简写，蒙蒙是谁，「鸿蒙」的蒙,你也可以叫它为蒙蒙空间)</em></sub>
 </p>
 
 <p align="center">独立空间 &nbsp; · &nbsp; 应用克隆 &nbsp; · &nbsp; 文件互传</p>
@@ -26,7 +27,7 @@
   <a href="#first-time-setup"><img src="./assets/setup-zh.svg" width="188" height="48" alt="首次使用设置：查看必需操作"></a>
 </p>
 
-<p align="center">MMSpace 已发布，前往 <a href="https://github.com/corespaceteam/MMSpace/releases">GitHub Releases</a> 下载。</p>
+<p align="center">MMSpace <sub><em>(蒙蒙空间)</em></sub> 已发布，前往 <a href="https://github.com/corespaceteam/MMSpace/releases">GitHub Releases</a> 下载。</p>
 
 ---
 
