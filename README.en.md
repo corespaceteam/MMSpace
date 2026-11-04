@@ -60,6 +60,7 @@ Set up separate spaces, adjust their displays, and clone spaces or apps.
     <tr><td><strong>Graphics mode</strong></td><td>Android 9.0 and 10.0 support <strong>CPU (software) rendering only</strong>. On Android 11.0 or later, choose <strong>Automatic, GPU (hardware), or CPU (software)</strong> rendering. Automatic mode tries the GPU first and switches to the CPU if the space fails to start.</td></tr>
     <tr><td><strong>Clone a space</strong></td><td>Create an independent copy of a space, including its apps, data, settings, and shared files.</td></tr>
     <tr><td><strong>App cloning</strong></td><td>We've modified the OpenHarmony source code to let you create <strong>up to 100 clones per supported app</strong>. Each clone has its own accounts, settings, and data.</td></tr>
+    <tr><td><strong>USB debugging</strong></td><td>Connect your phone to a computer via USB, forward the port with ADB, then use hdc to connect to the OpenHarmony virtual machine and open a shell. You can change the port in the virtual machine's settings. See the <a href="#9-how-do-i-connect-to-an-openharmony-virtual-machine-using-hdc">hdc connection instructions</a> for details.</td></tr>
   </tbody>
 </table>
 
