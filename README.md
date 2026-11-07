@@ -61,6 +61,7 @@
     <tr><td><strong>图形渲染</strong></td><td>Android 9.0 和 10.0 仅支持 <strong>CPU 软件渲染</strong>；Android 11.0 及以上支持 <strong>智能渲染、GPU 硬件渲染、CPU 软件渲染</strong>。智能模式优先使用 GPU，启动失败时自动切换 CPU 渲染。</td></tr>
     <tr><td><strong>克隆虚拟机</strong></td><td>将已有空间的应用、数据、设置和共享文件复制到新的独立空间，省去重复安装和设置。</td></tr>
     <tr><td><strong>应用克隆</strong></td><td>通过修改 OpenHarmony 源码，每个支持的应用最多可创建 <strong>100 个分身</strong>，各分身的账号、设置和数据独立保存。</td></tr>
+    <tr><td><strong>Root 权限管理</strong></td><td>可单独允许或禁止空间内的每个应用获取 <strong>Root 权限</strong>。</td></tr>
     <tr><td><strong>USB 调试</strong></td><td>通过 USB 连接电脑，使用 ADB 转发端口后，即可用 hdc 连接 OpenHarmony 虚拟机并进入 shell。端口号可在虚拟机设置中修改，具体步骤见 <a href="#9-如何用-hdc-连接-openharmony-虚拟机">hdc 连接说明</a>。</td></tr>
   </tbody>
 </table>
