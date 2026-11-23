@@ -22,12 +22,10 @@
 <p align="center">独立空间 &nbsp; · &nbsp; 应用克隆 &nbsp; · &nbsp; 文件互传</p>
 
 <p align="center">
-  <a href="https://github.com/corespaceteam/MMSpace/releases"><img src="./assets/get-zh.svg" width="188" height="48" alt="获取 MMSpace：前往版本发布页"></a>
+  <a href="https://zz.corespace.cc"><img src="./assets/get-zh.svg" width="188" height="48" alt="获取 MMSpace"></a>
   &nbsp;
   <a href="#first-time-setup"><img src="./assets/setup-zh.svg" width="188" height="48" alt="首次使用设置：查看必需操作"></a>
 </p>
-
-<p align="center">MMSpace <sub><em>(蒙蒙空间)</em></sub> 已发布，前往 <a href="https://github.com/corespaceteam/MMSpace/releases">GitHub Releases</a> 下载。</p>
 
 ---
 
@@ -101,7 +99,7 @@ MMSpace 已包含运行所需的 OpenHarmony 系统，无需另外寻找系统�
 
 ## 三步，开始体验
 
-1. **下载安装**：从 [版本发布页](https://github.com/corespaceteam/MMSpace/releases) 下载并安装到 Android 手机。
+1. **下载安装**：从 [MMSpace 下载页](https://zz.corespace.cc) 获取安装包，安装到 Android 手机上。
 2. **完成必需设置**：按[首次使用说明](#first-time-setup)完成手机设置，返回 MMSpace 检查运行环境。
 3. **启动你的空间**：点击「启动系统」，等待首次准备完成，进入 OpenHarmony。
 
