@@ -21,9 +21,13 @@
 <p align="center">Separate spaces &nbsp; · &nbsp; App cloning &nbsp; · &nbsp; File transfer</p>
 
 <p align="center">
-  <a href="https://zz.corespace.cc"><img src="./assets/get-en.svg" width="188" height="48" alt="Get MMSpace"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.mmspace.app.gp" target="_blank" rel="noopener"><img src="./assets/get-en.svg" width="188" height="48" alt="Get the app on Google Play"></a>
   &nbsp;
   <a href="#first-time-setup"><img src="./assets/setup-en.svg" width="188" height="48" alt="First-time setup: see the required steps"></a>
+</p>
+
+<p align="center">
+  <a href="https://corespace.cc" target="_blank" rel="noopener"><img src="./assets/website-en.svg" width="188" height="48" alt="Official website"></a>
 </p>
 
 ---
@@ -98,7 +102,7 @@ OpenHarmony comes bundled with MMSpace. Follow the setup instructions to get you
 
 ## Get started in three steps
 
-1. **Download and install**: Get MMSpace from the [download page](https://zz.corespace.cc) and install it on your Android phone.
+1. **Install MMSpace** from [Google Play](https://play.google.com/store/apps/details?id=com.mmspace.app.gp) or download and install the APK from the [MMSpace download page](https://zz.corespace.cc).
 2. **Complete the required setup**: Follow the [first-time setup instructions](#first-time-setup), then return to MMSpace to check that your phone is ready.
 3. **Start your space**: Wait for MMSpace to finish preparing OpenHarmony, then explore its home screen and apps.
 
